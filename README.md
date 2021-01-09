@@ -4,7 +4,7 @@
 
 ### Olá!
 
-<img align='right' src="https://pedroh12314.github.io/Meu-portfilio/img/perfil.jpg" width="200" style="border-radius: 60px">
+<img align='right' src="https://pedroh12314.github.io/Meu-portfilio/img/perfil.jpg" width="200" style="border-radius: 30%">
 
 <div>
     <p>
@@ -23,6 +23,8 @@
 - 👨‍💻 Todos os meus projetos e experiências podem ser encontrados em [**Meu-portfilio**](https://pedroh12314.github.io/Meu-portfilio/).
 - 🔭 Atualmente sou estudante de engenharia de controle a automação na  [**UNIFEI**](https://www.unifei.edu.br).
 
+------------
+
 # Estatísticas do Github
 
 <div>
@@ -39,6 +41,8 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroh12314&" alt="pedroh12314" />
     </span>
 </div>
+
+------------
 
 # Linguagens de Programação 🌐
 
@@ -68,8 +72,6 @@
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.d0LEHWDsXAL8aB91Bv7T-gAAAA%26pid%3DApi&f=1" alt="typescript" width="40" height="40"/>
     </a>
 </div>
-
-------------
 
 # Ferramentas 🛠️
 <div>
@@ -101,6 +103,8 @@
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     </a>
 </div>
+
+------------
 
 # Contato
 <div>
