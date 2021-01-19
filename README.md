@@ -39,7 +39,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=pedroh12314&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" />
     </p>
     <h4 align="center">Sequências de Estatísticas:</h4>
-    <p>
+    <p align="center">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroh12314&" alt="pedroh12314" />
     </p>
 </div>
