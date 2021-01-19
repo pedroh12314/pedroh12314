@@ -15,7 +15,7 @@
     Ao entrar na faculdade, a maior experiência que pude ter dentro dela, até o momento, foi de fazer parte da empresa júnior chamada Asimov Jr. Nela, muitas oportunidades de crescimento pessoal surgiram e eu pude aproveitar cada uma delas. Tais oportunidades eram: desenvolvimento Web, desenvolvimento mobile, liderança de time (diretor da área de projetos), reuniões e diálogos direto com clientes e diversas outras experiências. Portanto, tive um aprendizado muito satisfatório abrangendo diversas áreas.
     </p>
     <p>
-    Atualmente, sigo com minha faculdade em dia e no 3º ano de Engenharia de Controle e Automação. Sou grato a todas as oportunidades de conhecimento que tive. E busco não só aprender com todas elas, mas realmente fazer a diferença em tudo que eu faço: com muito amor, carinho e extrema dedicação em tudas as coisas que me proponho a cumprir.
+    Atualmente, sigo com minha faculdade em dia e no 3º ano de Engenharia de Controle e Automação. Sou grato a todas as oportunidades de conhecimento que tive. E busco não só aprender com todas elas, mas realmente fazer a diferença em tudo que eu faço: com muito amor, carinho e extrema dedicação em todas as coisas que me proponho a cumprir.
     </p>
 </div>
 
