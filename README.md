@@ -7,7 +7,7 @@
 
 <img align='right' src="https://pedroh12314.github.io/Meu-portfilio/img/perfil.jpg" width="200" style="border-radius: 30%;margin: 0px 0px 10px 20px">
 
-<div style="text-align: justify !important; text-justify: inter-word !important;">
+<div style="text-align: justify !important;S">
     <p>
     Cresci apaixonado por diferentes tipos de tecnologias, desde o Ensino Fundamental e Médio sempre gostei muito de automação de processos em fábricas e programação, em geral. Comecei com Arduino e adquiri uma Raspberry Pi nas férias de fim do ano em 2017, tal fato me fez querer aprender muito mais sobre esse mega universo que eu vinha descobrindo (o que ocorreu nos meses subsequentes e até hoje).
     </p>
