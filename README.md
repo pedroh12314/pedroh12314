@@ -1,8 +1,9 @@
-<h1 align="center">Olá, Eu me chamo Pedro 👋</h1>
+<p align="center" style="font-size: 30px">Olá, Eu me chamo Pedro 👋</p>
+
 
 # Perfil
 
-### Olá!
+#### Olá!
 
 <img align='right' src="https://pedroh12314.github.io/Meu-portfilio/img/perfil.jpg" width="200" style="border-radius: 30%">
 
@@ -14,13 +15,13 @@
     Ao entrar na faculdade, a maior experiência que pude ter dentro dela, até o momento, foi de fazer parte da empresa júnior chamada Asimov Jr. Nela, muitas oportunidades de crescimento pessoal surgiram e eu pude aproveitar cada uma delas. Tais oportunidades eram: desenvolvimento Web, desenvolvimento mobile, liderança de time (diretor da área de projetos), reuniões e diálogos direto com clientes e diversas outras experiências. Portanto, tive um aprendizado muito satisfatório abrangendo diversas áreas.
     </p>
     <p>
-    Atualmente, sigo com minha faculdade em dia e no 3º ano de Engenharia de Controle e Automação. Sou grato a todas as oportunidades de conhecimento que tive. E busco não só aprender com todas elas, mas realmente fazer a diferença em tudo que eu faço: com muito amor, carinho e extrema dedicação em tudo as coisas que me proponho a cumprir.
+    Atualmente, sigo com minha faculdade em dia e no 3º ano de Engenharia de Controle e Automação. Sou grato a todas as oportunidades de conhecimento que tive. E busco não só aprender com todas elas, mas realmente fazer a diferença em tudo que eu faço: com muito amor, carinho e extrema dedicação em tudas as coisas que me proponho a cumprir.
     </p>
 </div>
 
 - 📄 Estou aprendendo **Flutter**.
-
-- 👨‍💻 Todos os meus projetos e experiências podem ser encontrados em [**Meu-portfilio**](https://pedroh12314.github.io/Meu-portfilio/).
+- 💻 Realizei projetos de ERP Comercial (Angular2+, Firebase e Electron).
+- :books: Todos os meus projetos que posso mostrar e experiências podem ser encontrados em [**Meu Portfólio**](https://pedroh12314.github.io/Meu-portfilio/).
 - 🔭 Atualmente sou estudante de engenharia de controle a automação na  [**UNIFEI**](https://www.unifei.edu.br).
 
 ------------
@@ -29,17 +30,17 @@
 
 <div>
     <h4 align="center">Top linguagens:</h4>
-    <span align="center">
+    <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh12314&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
-    </span>
+    </p>
     <h4 align="center">Estatísticas do perfil:</h4>
-    <span align="center">
+    <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=pedroh12314&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" />
-    </span>
+    </p>
     <h4 align="center">Sequências de Estatísticas:</h4>
-    <span>
+    <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroh12314&" alt="pedroh12314" />
-    </span>
+    </p>
 </div>
 
 ------------
@@ -107,8 +108,10 @@
 ------------
 
 # Contato
+
+#### Conecte-se comigo:
+
 <div>
-    <h3 align="left">Conecte-se comigo:</h3>
     <p align="left">
     <a href="https://linkwhats.app/e72e13" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="pedro henrique lemes" height="30" width="40"/>
