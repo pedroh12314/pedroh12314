@@ -20,7 +20,8 @@
 </div>
 
 - 📄 Estou aprendendo **Flutter**.
-- 💻 Realizei projetos de ERP Comercial (Angular2+, Firebase e Electron).
+- 💻 Realizei projetos de ERP Comercial (**Angular2+, Firebase e Electron**).
+- 💻 Trabalhei com liderança de times (**Scrum**).
 - :books: Todos os meus projetos que posso mostrar e experiências podem ser encontrados em [**Meu Portfólio**](https://pedroh12314.github.io/Meu-portfilio/).
 - 🔭 Atualmente sou estudante de engenharia de controle a automação na  [**UNIFEI**](https://www.unifei.edu.br).
 
