@@ -114,22 +114,22 @@
 
 <div>
     <p align="left">
-    <a href="https://linkwhats.app/e72e13" target="blank">
+    <a href="https://linkwhats.app/e72e13" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="pedro henrique lemes" height="30" width="40"/>
     </a>
-    <a href="https://linkedin.com/in/pedro henrique lemes" target="blank">
+    <a href="https://linkedin.com/in/pedro henrique lemes" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedro henrique lemes" height="30" width="40"/>
     </a>
-    <a href="https://stackoverflow.com/users/11789189" target="blank">
+    <a href="https://stackoverflow.com/users/11789189" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11789189" height="30" width="40" />
     </a>
-    <a href="https://fb.com/pedro henrique lemes" target="blank">
+    <a href="https://fb.com/pedro henrique lemes" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pedro henrique lemes" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/pedro_hlemes" target="blank">
+    <a href="https://instagram.com/pedro_hlemes" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pedro_hlemes" height="30" width="40" />
     </a>
-    <a href="https://medium.com/@pedroh.12314" target="blank">
+    <a href="https://medium.com/@pedroh.12314" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pedroh.12314" height="30" width="40" />
     </a>
 </div>
